@@ -1,7 +1,7 @@
-### Alena Lisickaja (lowlevelgirl)
+### Alena Lisickaja (lowlevelgurl)
 
 ```cs
-class Lowlevelgirl {
+class Lowlevelgurl {
   String[] ProgrammingLanguages = { "C#", "C/C++", "ObjectPascal" };           
   String[] Languages = { "Belarusian (Native)", "Ukrainian", "Polish", "English" };           
   Int32 YearsOld = 18;
