@@ -1,10 +1,13 @@
 ### Alena Lisickaja (lowlevelgurl)
 
-```cs
-class Lowlevelgurl {
-  String[] ProgrammingLanguages = { "C#", "ObjectPascal" };           
-  String[] Languages = { "Belarusian (Native)", "Ukrainian", "Polish", "English" };           
-  Int32 YearsOld = 18;
-  String LGBTQIAplus = "Trans*Female & Bisexual"; 
+```c
+#include <stdio.h>
+
+int main() {
+    char programming_languages[] = "C#, C, FreePascal";
+    char languages[] = "Belarusian (N), Ukrainian, Polish, English";
+    int years_old = 18;
+
+    return 0;
 }
 ```
